@@ -15,5 +15,5 @@
 # vendor/
 
 .env*
-!.vscode/*.json
 *.json
+!.vscode/*.json
